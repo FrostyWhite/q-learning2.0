@@ -2,6 +2,8 @@
 
 NOTE: Program must be built locally using Qt Creator. instructions can be
       found from installation.txt
+      
+Project members and their areas of responsibility can be found in the documentation.
 
 The goal of our project was to teach a car to ride using a q-learning algorithm
 and an artificial neural network. As claimed in our project plan, originally we
