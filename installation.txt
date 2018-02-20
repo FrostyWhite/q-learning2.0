@@ -1,0 +1,19 @@
+For the moment being the project is not yet deployed
+so it probably needs to be built locally. Unfortunately this process
+takes more effort than it should. Building the deployed applications
+was proven to be too hard as the qt uses its own method of building that
+did not as expected on our platforms due to some confusion with the qt
+libraries. The executables could not be built using command line.
+
+MANUAL BUILDING AND INSTALLATION:
+
+To build the project you need to have qt installed along with
+Qt Creator IDE!
+
+1. Open file ./build/qt-project/project.pro with qt creator.
+2. When asked to create new settings click yes.
+3. In the lower left hand corner click on the icon that says debug
+   and select release.
+4. In menu bar click the following options build->clean all, build->run qmake
+   build->build all.
+5. Run project from the lower left hand corner play button.
