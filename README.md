@@ -1,4 +1,4 @@
-# Sample README file for C++ programming project
+# README file for C++ programming project
 
 NOTE: Program must be built locally using Qt Creator. instructions can be
       found from installation.txt
@@ -22,5 +22,4 @@ added a possibility to save the car’s progress to a file.
 
   * 'build/' -- here is the Qt Creator project folder for building the program
 
-You may also add other new directories as needed, for example
-for testing tools.
+NOTE: 'build' folder files are not relevant, follow the instructions in installation.txt
